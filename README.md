@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavesh V</h1>
 
 <h3 align="center">
-Java Full Stack Developer | Backend Developer | AI Engineering Enthusiast | CSE @ SSN
+Java Full Stack Developer | Backend Developer | CSE @ SSN
 </h3>
 
 <p align="center">
