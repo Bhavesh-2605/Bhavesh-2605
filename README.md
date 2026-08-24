@@ -212,20 +212,28 @@ The project explores:
 * AI Agents
 
 ---
-
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhavesh-2605&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh-2605&layout=compact&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Bhavesh-2605&show_icons=true&theme=transparent&hide_border=true"
+    height="170"
+    alt="Bhavesh GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh-2605&layout=compact&theme=transparent&hide_border=true"
+    height="170"
+    alt="Bhavesh Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavesh-2605&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=Bhavesh-2605&theme=transparent&hide_border=true"
+    alt="Bhavesh GitHub Streak"
+  />
 </p>
-
----
-
 # 🧩 LeetCode
 
 <p align="center">
