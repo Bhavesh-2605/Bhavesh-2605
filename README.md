@@ -243,54 +243,58 @@ The project explores:
 </p>
 
 ---
+## 🎯 Current Focus
 
-# 🎯 Current Focus
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-SQL%20%7C%20Design-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20CI%2FCD-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-RAG%20%7C%20LLMs-purple?style=for-the-badge" />
+</p>
 
-```text
-Backend Engineering
-├── Java
-├── Spring Boot
-├── Spring Security
-├── REST API Design
-├── Database Design
-├── Microservices
-└── System Design
+### ⚙️ Backend Engineering
 
-Problem Solving
-├── Data Structures & Algorithms
-├── SQL
-├── LeetCode
-└── Core CS Fundamentals
+`Java` `Spring Boot` `Spring Security` `REST APIs` `Microservices` `System Design`
 
-DevOps
-├── Docker
-├── Docker Compose
-├── Git / GitHub
-├── CI/CD
-└── Application Deployment
+### 🧩 Problem Solving
 
-AI Engineering
-├── Embeddings
-├── Vector Databases
-├── Retrieval-Augmented Generation
-├── LLM Integration
-└── AI Agents
-```
+`Data Structures & Algorithms` `LeetCode` `SQL` `Core CS Fundamentals`
+
+### 🐳 DevOps
+
+`Docker` `Docker Compose` `Git` `GitHub` `CI/CD` `Deployment`
+
+### 🤖 AI Engineering
+
+`RAG` `Embeddings` `Vector Databases` `LLMs` `Semantic Search` `AI Agents`
 
 ---
 
-# 🤝 Let's Connect
-
-I'm interested in opportunities and discussions related to:
-
-**Backend Engineering • Java • Spring Boot • Full Stack Development • AI Engineering • Cloud • Open Source**
+## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhaveshv2605/">LinkedIn</a>
-  •
-  <a href="mailto:bhaveshvelmurugan@gmail.com">Email</a>
-  •
-  <a href="https://leetcode.com/u/Bhavesh_V_26/">LeetCode</a>
+  <b>Open to Backend Development, Full Stack, AI Engineering and Software Development opportunities</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhaveshv2605/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:bhaveshvelmurugan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/Bhavesh_V_26/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>💡 Building scalable systems, solving real problems, and continuously improving.</b>
 </p>
 
 ---
