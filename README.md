@@ -1,158 +1,475 @@
-<h1 align="center">Hi 👋, I'm Bhavesh V</h1>
-<h3 align="center">Java Full Stack Developer | Backend Developer | Computer Science Undergraduate</h3>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:bhaveshvelmurugan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bhaveshvelmurugan%40gmail.com-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/bhaveshv2605/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bhavesh%20V-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/Bhavesh-2605">
-    <img src="https://img.shields.io/badge/GitHub-Bhavesh--2605-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://leetcode.com/u/Bhavesh_V_26/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
-  </a>
-</p>
+# 👋 Hey, I'm Bhavesh V
 
----
+### Java Full Stack Developer • Backend Developer • CSE Undergraduate
 
-# 💫 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+Backend+Developer;Building+Scalable+Web+Applications;Learning+Cloud+%26+DevOps;Exploring+AI-Powered+Software" alt="Typing SVG" />
 
-🎓 Final-year Computer Science and Engineering student at **SSN College of Engineering**
+<br/>
 
-💻 Passionate about **Backend Development**, **Cloud Computing**, and **Full Stack Development**
+<a href="mailto:bhaveshvelmurugan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-bhaveshvelmurugan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/bhaveshv2605/">
+  <img src="https://img.shields.io/badge/LinkedIn-Bhavesh%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Bhavesh-2605">
+  <img src="https://img.shields.io/badge/GitHub-Bhavesh--2605-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://leetcode.com/u/Bhavesh_V_26/">
+  <img src="https://img.shields.io/badge/LeetCode-Bhavesh__V__26-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-🚀 Interested in building scalable web applications using **Java**, **Spring Boot**, **React**, and **Docker**
+<br/><br/>
 
-🧠 Strong foundation in
+<img src="https://komarev.com/ghpvc/?username=Bhavesh-2605&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- DBMS
-- Operating Systems
-- Computer Networks
+</div>
 
 ---
 
-# 🚀 Current Focus
+## 👨‍💻 About Me
 
-- 📚 Solving DSA problems on LeetCode
-- ☁️ Building cloud-native applications with Docker
-- ⚡ Mastering Spring Boot & Microservices
-- 🤖 Exploring AI-powered software solutions
-- 📈 Preparing for Software Development Engineer (SDE) roles
+```java
+public class Bhavesh {
+
+    String role = "Java Full Stack Developer";
+    String college = "SSN College of Engineering";
+    String degree = "B.E. Computer Science and Engineering";
+
+    String[] interests = {
+        "Backend Development",
+        "Full Stack Development",
+        "Cloud Computing",
+        "Artificial Intelligence",
+        "System Design"
+    };
+
+    String[] currentlyLearning = {
+        "Spring Boot",
+        "Microservices",
+        "Docker",
+        "DSA",
+        "System Design"
+    };
+
+    String goal = "Become a strong Software Development Engineer";
+
+    public void build() {
+        System.out.println("Learn → Build → Break → Fix → Improve");
+    }
+}
+```
+
+* 🎓 Final-year **Computer Science and Engineering** student at **SSN College of Engineering**
+* 💻 Interested in **Backend Engineering, Full Stack Development and Cloud Computing**
+* ☕ Building applications primarily using **Java + Spring Boot**
+* ⚛️ Developing responsive frontends using **React.js**
+* 🐳 Learning containerization and deployment using **Docker**
+* 🤖 Exploring **AI-powered applications and RAG systems**
+* 🧠 Strengthening **DSA, SQL, CS fundamentals and System Design**
+* 🎯 Currently preparing for **Software Development Engineer roles**
 
 ---
 
-# 💼 Featured Projects
+# 🚀 What I'm Currently Working On
 
-## ☁️ CloudBox Pro – Secure Cloud Storage Platform
+<table>
+<tr>
+<td width="50%">
 
-**Tech Stack:** Java • Spring Boot • Spring Security • JWT • MySQL • Docker
+### 💻 Development
 
-- Secure cloud storage platform inspired by Google Drive
-- JWT Authentication & Role-Based Access Control
-- File upload, download, preview, search & sharing
-- Dockerized deployment
-- RESTful APIs
-- Cloud object storage integration
+* Java & Advanced Java
+* Spring Boot
+* Spring Security
+* REST APIs
+* React.js
+* Backend Architecture
+* Microservices
+
+</td>
+
+<td width="50%">
+
+### 🧠 Problem Solving
+
+* Data Structures & Algorithms
+* SQL Query Writing
+* LeetCode Practice
+* Database Design
+* Object-Oriented Design
+* System Design Fundamentals
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☁️ DevOps & Cloud
+
+* Docker
+* Docker Compose
+* Git & GitHub
+* CI/CD fundamentals
+* Cloud-native architecture
+* Application deployment
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Engineering
+
+* Retrieval-Augmented Generation
+* Vector Databases
+* LLM Integration
+* Embeddings
+* Machine Learning
+* Deep Learning
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤖 AI-Based Smart Code Execution & Optimization Engine
+# 🏗️ Featured Projects
 
-**Tech Stack:** Spring Boot • React.js • Docker • MySQL
+## ☁️ CloudBox Pro
 
-- Secure multi-language code execution platform
-- Docker container-based execution
-- AI-powered code optimization suggestions
-- Execution time & memory monitoring
-- REST API architecture
+### Secure Cloud Storage Platform
+
+> A secure cloud file-management platform inspired by Google Drive.
+
+**Tech Stack**
+
+`Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `Docker` `REST API`
+
+### ✨ Key Features
+
+* 🔐 Secure authentication using JWT
+* 👥 Role-Based Access Control
+* 📤 File upload and storage
+* 📥 Secure file downloads
+* 👀 File preview support
+* 🔎 File searching
+* 🔗 Secure file sharing
+* 🗂️ File and folder management
+* ☁️ Cloud object-storage integration
+* 🐳 Dockerized deployment
+* 🔌 RESTful backend architecture
+
+### What I Learned
+
+* Authentication and authorization
+* Backend API design
+* Database relationships
+* Secure file handling
+* Docker-based application deployment
+* Designing scalable backend services
+
+---
+
+## 🧠 AI Placement Intelligence Platform
+
+### AI-Powered Resume & Placement Assistant
+
+> An intelligent platform designed to help students analyze resumes, job descriptions and placement opportunities using AI.
+
+**Tech Stack**
+
+`FastAPI` `React` `PostgreSQL` `Qdrant` `Docker` `Ollama` `RAG`
+
+### ✨ Key Features
+
+* 📄 Resume upload and analysis
+* 💼 Job-description processing
+* 🧠 Retrieval-Augmented Generation
+* 🔎 Semantic document retrieval
+* 🗃️ Vector database powered search
+* 🤖 Local LLM integration using Ollama
+* 💬 AI conversational interface
+* 🐳 Multi-container Docker architecture
+* 📊 Skill-gap identification
+* 🎯 Placement-focused recommendations
+
+### Architecture
+
+```text
+            ┌───────────────┐
+            │    React UI   │
+            └───────┬───────┘
+                    │
+                 REST API
+                    │
+            ┌───────▼───────┐
+            │    FastAPI    │
+            │    Backend    │
+            └───┬───────┬───┘
+                │       │
+        ┌───────▼───┐ ┌─▼──────────┐
+        │ PostgreSQL│ │   Qdrant   │
+        │ Metadata  │ │Vector Store│
+        └───────────┘ └─────┬──────┘
+                            │
+                      Semantic Search
+                            │
+                      ┌─────▼─────┐
+                      │  Ollama   │
+                      │ Local LLM │
+                      └───────────┘
+```
+
+---
+
+## ⚙️ AI-Based Smart Code Execution & Optimization Engine
+
+> A platform for securely executing source code while providing AI-generated optimization suggestions.
+
+**Tech Stack**
+
+`Spring Boot` `React.js` `Docker` `MySQL` `REST API`
+
+### ✨ Key Features
+
+* 💻 Multi-language code execution
+* 📦 Isolated Docker container execution
+* ⏱️ Runtime measurement
+* 🧠 AI-assisted code optimization
+* 📊 Memory monitoring
+* 🔌 REST API architecture
+* 🗄️ Execution-history persistence
+* 🔐 Secure execution environment
+
+### Engineering Concepts
+
+* Container isolation
+* Process execution
+* Backend architecture
+* Resource monitoring
+* API communication
+* Database persistence
 
 ---
 
 ## 🩻 Medical Image Classification using Vision Transformer
 
-**Tech Stack:** Python • PyTorch • Vision Transformer
+> Deep-learning based multi-label disease classification from chest X-ray images.
 
-- Multi-label chest X-ray disease classification
-- Trained on 5000+ medical images
-- Vision Transformer (ViT-B/16)
-- Achieved ~0.72 ROC-AUC
+**Tech Stack**
 
----
+`Python` `PyTorch` `Vision Transformer` `Deep Learning`
 
+### 📊 Model Details
 
-# 🛠 Tech Stack
+* 🖼️ **5,000+ medical images**
+* 🧠 **Vision Transformer ViT-B/16**
+* 🏷️ Multi-label disease classification
+* 📈 Approximately **0.72 ROC-AUC**
+* 🔬 Image preprocessing and augmentation
+* 📊 Model evaluation using classification metrics
 
-### Languages
+### What I Explored
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap)
-
-### Backend
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat)
-![REST API](https://img.shields.io/badge/REST-02569B?style=flat)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
+* Vision Transformers
+* Transfer Learning
+* Medical Image Processing
+* Multi-label Classification
+* ROC-AUC evaluation
+* Deep Learning workflows
 
 ---
 
-# 📊 GitHub Stats
+# 🛠️ Tech Arsenal
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhavesh-2605&show_icons=true&theme=tokyonight"/>
+### 👨‍💻 Programming Languages
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh-2605&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript&theme=dark" />
 
-</p>
+### 🌐 Frontend Development
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,javascript&theme=dark" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavesh-2605&theme=tokyonight"/>
+### ⚙️ Backend Development
 
-</p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi&theme=dark" />
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
+
+### ☁️ DevOps & Development Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,maven,postman,vscode&theme=dark" />
+
+### 🤖 AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+
+</div>
+
+---
+
+# 🧠 Core Computer Science Knowledge
+
+<div align="center">
+
+| Area                     | Topics                                                                             |
+| ------------------------ | ---------------------------------------------------------------------------------- |
+| 🧮 **DSA**               | Arrays • Strings • Linked Lists • Trees • Graphs • Recursion • Dynamic Programming |
+| ☕ **OOP**                | Encapsulation • Inheritance • Polymorphism • Abstraction                           |
+| 🗄️ **DBMS**             | SQL • Joins • Normalization • Transactions • Indexing                              |
+| 💻 **Operating Systems** | Processes • Threads • Scheduling • Memory Management                               |
+| 🌐 **Computer Networks** | TCP/IP • HTTP • DNS • Routing • OSI Model                                          |
+| 🔌 **Backend**           | REST APIs • Authentication • Authorization • MVC                                   |
+| 🏗️ **System Design**    | Scalability • Caching • Databases • Load Balancing                                 |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bhavesh-2605&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavesh-2605&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh-2605&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavesh-2605&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# 🧩 LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Bhavesh_V_26/">
+<img src="https://leetcard.jacoblin.cool/Bhavesh_V_26?theme=dark&font=Fira%20Code&ext=heatmap"/>
+</a>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+* [ ] Strengthen Data Structures & Algorithms
+* [ ] Solve 300+ LeetCode problems
+* [ ] Master Spring Boot
+* [ ] Build production-ready backend applications
+* [ ] Learn Microservices architecture
+* [ ] Improve System Design knowledge
+* [ ] Become confident with Docker and CI/CD
+* [ ] Build advanced RAG applications
+* [ ] Contribute to open-source projects
+* [ ] Secure a Software Development Engineer role
+
+---
+
+# 📚 Currently Learning
+
+```text
+Java
+ └── Advanced Java
+      └── Spring Framework
+           └── Spring Boot
+                ├── Spring MVC
+                ├── Spring Data JPA
+                ├── Spring Security
+                ├── REST APIs
+                └── Microservices
+
+Backend Engineering
+ ├── Authentication
+ ├── Authorization
+ ├── Database Design
+ ├── API Design
+ ├── Caching
+ └── System Design
+
+DevOps
+ ├── Git
+ ├── Docker
+ ├── Docker Compose
+ ├── CI/CD
+ └── Cloud Deployment
+
+AI Engineering
+ ├── Embeddings
+ ├── Vector Databases
+ ├── RAG
+ ├── LLM Integration
+ └── AI Agents
+```
+
+---
+
+# 💡 Development Philosophy
+
+<div align="center">
+
+### `Understand → Design → Build → Test → Deploy → Improve`
+
+> I enjoy understanding how systems work beneath the surface rather than only making them work.
+
+</div>
 
 ---
 
 # 🤝 Let's Connect
 
-📧 **Email:** bhaveshvelmurugan@gmail.com
+<div align="center">
 
-💼 **LinkedIn:** https://www.linkedin.com/in/bhaveshv2605/
+### I'm always interested in discussing
 
-💻 **GitHub:** https://github.com/Bhavesh-2605
+`Backend Development` • `Java` • `Spring Boot` • `Cloud` • `AI` • `Open Source`
 
-🧩 **LeetCode:** https://leetcode.com/u/Bhavesh_V_26/
+<br/>
 
----
+<a href="mailto:bhaveshvelmurugan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-⭐ *"Code. Learn. Build. Repeat."*
+<a href="https://www.linkedin.com/in/bhaveshv2605/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Bhavesh_V_26/">
+<img src="https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## ⭐ Code. Learn. Build. Repeat.
+
+### Thanks for visiting my profile! 👨‍💻
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer"/>
+
+</div>
