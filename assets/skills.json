@@ -1,0 +1,33 @@
+{
+  "title": "Engineering Radar",
+  "axes": [
+    {
+      "label": "Java",
+      "value": 75
+    },
+    {
+      "label": "Spring Boot",
+      "value": 68
+    },
+    {
+      "label": "SQL",
+      "value": 70
+    },
+    {
+      "label": "DSA",
+      "value": 62
+    },
+    {
+      "label": "Docker",
+      "value": 58
+    },
+    {
+      "label": "AI / RAG",
+      "value": 60
+    },
+    {
+      "label": "System Design",
+      "value": 45
+    }
+  ]
+}

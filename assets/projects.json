@@ -1,0 +1,13 @@
+{
+  "_comment": "Featured repos shown on my GitHub profile README.",
+  "projects": [
+    {
+      "repo": "cloudbox-pro",
+      "description": "Secure cloud storage platform built with Spring Boot, React, JWT authentication, encrypted file handling and role-based access control."
+    },
+    {
+      "repo": "chestscan",
+      "description": "AI-powered chest X-ray screening system using a Vision Transformer for multi-label thoracic condition classification."
+    }
+  ]
+}
